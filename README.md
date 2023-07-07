@@ -1,4 +1,7 @@
-# uas-Tanzilal
+# UAS LAB PBK
+NAMA : Tanzilal Azizirramadhan
+NPM : 213510152
+Kelas : 4C
 
 This template should help get you started developing with Vue 3 in Vite.
 
