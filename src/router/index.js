@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Weather from '../views/Weather.vue'
 import StopWatch from '../views/Stopwatch.vue'
 import Location from '../views/Location.vue'
-import Photo from '../views/photo.vue'
+import Photo from '../views/Photo.vue'
 import TicTac from '../views/TicTac.vue'
 
 const router = createRouter({
